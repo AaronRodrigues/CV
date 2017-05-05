@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2017 to Current)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Manipal University / BE Chemical Engineering (2003 to 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Concentration in Petroleum Engineering
+- Checmical Engineering Applications using C++
+- Renewable Energy
 
-#### Any other qualifications
+Measurement and Logging While Drilling Course - Halliburton Training School, Cairo, Egypt
+Geopilot Downhole Rotary Steerable System Course - Halliburton Training School, Singapore
+Radioactive Source Handling - Halliburton Training School, Cairo, Egypt
+TBOSIET - Tropical Basic Offshore Safety Induction and Emergency Training OPITO at GTSC in Dubai
+First Aid - Training at GTSE Dubai
+H2S Training -  Training at GTSE Dubai
+Fire Fighting -  Training at GTSE Dubai
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Halliburton Worldwide Limited ** (2010 to 2017)    
+Measurement While Drilling (MWD) Engineer - Halliburton Worldwide Limited 
+**GITG** (2009 to 2010)   
+Sr Sustainability Engineer - Integration of Hydrogen Fuel Cells and Photo-Voltaic solar panels into projects such as MASDAR city in the United Arab Emirates.
