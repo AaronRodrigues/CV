@@ -52,10 +52,9 @@ H2S Training -  Training at GTSE Dubai
 
 Fire Fighting -  Training at GTSE Dubai
 
-
 ## :school: <a name="experience">Experience</a>
 
-**Halliburton Worldwide Limited **  
+**Halliburton Worldwide Limited** (2009 to 2010)   
 Measurement While Drilling (MWD) Engineer 
 
 **GITG** (2009 to 2010)   
