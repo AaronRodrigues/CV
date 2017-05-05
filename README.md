@@ -55,7 +55,7 @@ Fire Fighting -  Training at GTSE Dubai
 
 ## :school: <a name="experience">Experience</a>
 
-**Halliburton Worldwide Limited ** (2010 to 2017)    
+**Halliburton Worldwide Limited **  
 Measurement While Drilling (MWD) Engineer 
 
 **GITG** (2009 to 2010)   
