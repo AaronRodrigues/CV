@@ -6,11 +6,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 #### Problem Solving
 
-Working for Halliburton involved travelling to remote locations to run million dollar projects and have the data acquired on site sent over a VPN back to town realtime. Due to the lack of resources in these locations and logistical challenges, Problem solving was ingrained in day to day work. Power shutdowns, safety drills, electronic interference, troubleshooting of surface and downhole sensors were part of day to day operation.
+Working for Halliburton involved travelling to remote locations to run million dollar projects and have the data acquired on site sent over a VPN back to town realtime. Due to the lack of resources in these locations and logistical challenges, Problem solving was ingrained in day to day work. Working around power shutdowns, safety drills, electronic interference, troubleshooting of surface and downhole sensors were part of day to day operation.
 
 - 7 Years experience as an Engineer in the Oil and Gas Sector
-- Was involved in the Drilling of the deepest wells in the region
-- Evidence
+- Was directly involved in Drilling the deepest Extended Reach Wells in the Middle East
 
 #### Critical Decision Making
 
@@ -18,7 +17,9 @@ Interruption of Sensor Data could involve stopping an on-site operation in order
 
 - Zero Non Productive Time over a 7 Year period with Halliburton
 - Trained and delegated responsibilites to juniors in my field
-- Was directly involved in Drilling the deepest Extended Reach Wells in the Middle East
+- Completed Competency Reports and mentored new hires
+
+
 
 ## :mortar_board: <a name="education">Education</a>
 
