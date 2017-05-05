@@ -4,22 +4,21 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## :book: <a name="skills">Skills</a>
 
-#### This Skill
+#### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Working for Halliburton involved travelling to remote locations to run million dollar projects and have the data acquired on site sent over a VPN back to town realtime. Due to the lack of resources in these locations and logistical challenges, Problem solving was ingrained in day to day work. Power shutdowns, safety drills, electronic interference, troubleshooting of surface and downhole sensors were part of day to day operation.
 
-- Experience
-- Achievements
+- 7 Years experience as an Engineer in the Oil and Gas Sector
+- Was involved in the Drilling of the deepest wells in the region
 - Evidence
 
-#### Another Skill
+#### Critical Decision Making
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Interruption of Sensor Data could involve stopping an on-site operation in order to trobleshoot. Rig costs could range between $300,000 to several million dollars per day. This loss in time could be charged back to our company if the Non-Productive-Time (NPT) was significant (usually half an hour). With only two individuals representing Halliburton on-site, one covering each shift, I was making crucial decisions that maintained a smooth operation.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Zero Non Productive Time over a 7 Year period with Halliburton
+- Trained and delegated responsibilites to juniors in my field
+- Was directly involved in Drilling the deepest Extended Reach Wells in the Middle East
 
 ## :mortar_board: <a name="education">Education</a>
 
@@ -39,11 +38,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Renewable Energy
 
 Measurement and Logging While Drilling Course - Halliburton Training School, Cairo, Egypt
+
 Geopilot Downhole Rotary Steerable System Course - Halliburton Training School, Singapore
+
 Radioactive Source Handling - Halliburton Training School, Cairo, Egypt
+
 TBOSIET - Tropical Basic Offshore Safety Induction and Emergency Training OPITO at GTSC in Dubai
+
 First Aid - Training at GTSE Dubai
+
 H2S Training -  Training at GTSE Dubai
+
 Fire Fighting -  Training at GTSE Dubai
 
 
@@ -51,5 +56,6 @@ Fire Fighting -  Training at GTSE Dubai
 
 **Halliburton Worldwide Limited ** (2010 to 2017)    
 Measurement While Drilling (MWD) Engineer 
+
 **GITG** (2009 to 2010)   
 Sr Sustainability Engineer - Integration of Hydrogen Fuel Cells and Photo-Voltaic solar panels into projects such as MASDAR city in the United Arab Emirates.
