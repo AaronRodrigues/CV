@@ -50,6 +50,6 @@ Fire Fighting -  Training at GTSE Dubai
 ## Experience
 
 **Halliburton Worldwide Limited ** (2010 to 2017)    
-Measurement While Drilling (MWD) Engineer - Halliburton Worldwide Limited 
+Measurement While Drilling (MWD) Engineer 
 **GITG** (2009 to 2010)   
 Sr Sustainability Engineer - Integration of Hydrogen Fuel Cells and Photo-Voltaic solar panels into projects such as MASDAR city in the United Arab Emirates.
