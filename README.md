@@ -1,6 +1,18 @@
-## Your Name
+## Aaron Rodrigues
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+My personality has coalesced at the unlikely intersection of  two musical genres, the two being Vaporwave and Progressive Heavy Metal. After 7 Years of working for a Fortune 500 company in the oil industry, I decided to take the plunge and make a move as a Full Stack Developer. One fact that polarized this decision was that the makers of Auto-Tune, used their experience measuring waveforms in petroleum resevoirs to develop their widely used VST application .
+
+This interest in software development was nurtured by a revisiting some of Object Oriented Programming lectures from my University days and their application to Chemical Engineering, in which I hold a degree in. I developed a desire to build things using code. This made the prospect of writing code in C# rather appealing. Working at a job building code that was readable that could save the world seemed an attractive alternative to handling a radioactive source, in a war torn country for Halliburton.
+
+I built a basic flappy bird game among other notable arcade classics in Unity that some kids dug. 
+
+My Favorite Question - **Why Not?**
+
+I am currently in the trenches at Makers Academy, Europes best coding bootcamp and working calisthenics of the mind, building applications in Ruby and JavaScript. 
+I hope to work in a Full Stack Developer capacity, with other like minded individuals who are enthused about clean code, Test Driven Development, stand for truth and justice, perhaps whilst picking up some more C# and C++ along the way.
+
+
+
 
 ## :book: <a name="skills">Skills</a>
 
