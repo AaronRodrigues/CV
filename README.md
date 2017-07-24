@@ -2,7 +2,7 @@
 
 My interest in software development was nurtured by a revisiting some of Object Oriented Programming lectures from my University days and their application to Chemical Engineering, in which I hold a degree in. I eventually developed a desire to build things using code. After using, C and C++ in University, the prospect of writing code in C# became rather appealing. Working at a job building code that was readable that could save the world seemed an attractive alternative to handling a radioactive source, in a war torn country. I built a basic flappy bird game among other notable arcade classics in Unity. 
 
-I have since been in the trenches at Makers Academy, Europes best coding bootcamp, building applications in Ruby and JavaScript, using best practices in TDD, SOLID using agile methodologies.
+I have since been in the trenches at Makers Academy, Europes best coding bootcamp, building applications in Ruby and JavaScript, using best practices in TDD, SOLID using agile principles.
 
 I hope to work in a Full Stack Developer capacity, with other like minded individuals who are enthused about writing clean code, Test Driven Development, stand for truth and justice, perhaps whilst picking up some more C# and C++ along the way.
 
