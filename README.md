@@ -43,7 +43,19 @@ Interruption of Sensor Data could involve stopping an on-site operation in order
 ## :school: <a name="experience">Experience</a>
 
 **Halliburton Worldwide Limited** (2009 to 2017)   
-Measurement While Drilling (MWD) Engineer 
+- Provided on-site supervision of the Measurement and Logging While Drilling (M/LWD)
+  process including Information Technology services, sensor preparations, data
+  acquisition, log generation, Quality Control (QC), and delivery of the services via VPN to
+  the customer.
+
+- Performed assignments requiring knowledge and application of basic engineering and
+  measurement while drilling principles
+
+- Maintained equipment inventory and supervised movement to and from well site via SAP
+
+- Maintained SQL computer database for on-going jobs
+
+- Prepared customer related expenses, risk analysis and end-of-well reports
 
 **GITG** (2009 to 2010)   
-Sr Sustainability Engineer - Integration of Hydrogen Fuel Cells and Photo-Voltaic solar panels into projects such as MASDAR city in the United Arab Emirates.
+- Sr Sustainability Engineer - Integration of Hydrogen Fuel Cells and Photo-Voltaic solar panels into projects such as MASDAR city in     the United Arab Emirates.
