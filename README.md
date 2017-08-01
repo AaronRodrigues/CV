@@ -42,7 +42,8 @@ Interruption of Sensor Data could involve stopping an on-site operation in order
 
 ## :school: <a name="experience">Experience</a>
 
-**Halliburton Worldwide Limited** (2009 to 2017)   
+**Halliburton Worldwide Limited** (2009 to 2017)  
+
 - Provided on-site supervision of the Measurement and Logging While Drilling (M/LWD)
   process including Information Technology services, sensor preparations, data
   acquisition, log generation, Quality Control (QC), and delivery of the services via VPN to
@@ -58,4 +59,11 @@ Interruption of Sensor Data could involve stopping an on-site operation in order
 - Prepared customer related expenses, risk analysis and end-of-well reports
 
 **GITG** (2009 to 2010)   
-- Sr Sustainability Engineer - Integration of Hydrogen Fuel Cells and Photo-Voltaic solar panels into projects such as MASDAR city in     the United Arab Emirates.
+
+- Engaged in designing and troubleshooting photovoltaic and hydrogen fuel cell systems for
+  clients in the MIddle East.
+
+- Devised cost effective solutions for solar powered glass buildings, car parks and vehicles
+  including golf carts, forklifts, boats and catamarans.
+
+- Provided Hydrogen fuel cell backup solutions for IT and telecommunication industries
