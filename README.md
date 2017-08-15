@@ -4,7 +4,7 @@ My interest in software development was nurtured by a revisiting some of Object 
 
 I have since been in the trenches at Makers Academy, Europes best coding bootcamp, building applications in Ruby and JavaScript, using best practices in TDD, SOLID using agile principles.
 
-I hope to work in a Full Stack Developer capacity, with other like minded individuals who are enthused about writing clean code, Test Driven Development, stand for truth and justice, perhaps whilst picking up some more C# and C++ along the way.
+I hope to work in a Full Stack Developer capacity, with other like minded individuals who are enthused about writing clean code, use Test Driven Development, perhaps whilst picking up some more C# and C++ along the way.
 
 ## :book: <a name="skills">Skills</a>
 
