@@ -6,6 +6,16 @@ I have since been in the trenches at Makers Academy, Europes best coding bootcam
 
 I hope to work in a Full Stack Developer capacity, with other like minded individuals who are enthused about writing clean code, use Test Driven Development, perhaps whilst picking up a few more languages along the way.
 
+## Projects
+
+To see the full list of projects, please visit my [Github](https://github.com/AaronRodrigues) page.
+
+| Project           | Description | Technologies |
+|---                |---          |---           |
+| [Babel Chat](https://github.com/panteha/BabelChat) | An instant multi-lingual messaging app,which allows users to communicate in their native language with each other | Node.js, Google Translate API, Express, React, Passport, MongoDB |
+| [Sun Tiger](https://github.com/AaronRodrigues/search_engine) | A minimalistic search engine | Ruby, Nokogiri |
+
+
 ## :book: <a name="skills">Skills</a>
 
 #### Problem Solving
@@ -22,16 +32,6 @@ Interruption of Sensor Data could involve stopping an on-site operation in order
 - Zero Non Productive Time over a 7 Year period with Halliburton
 - Trained and delegated responsibilites to juniors in my field
 - Completed Competency Reports and mentored new hires
-
-## Projects
-
-To see the full list of projects, please visit my [Github](https://github.com/AaronRodrigues) page.
-
-| Project           | Description | Technologies |
-|---                |---          |---           |
-| [Babel Chat](https://github.com/panteha/BabelChat) | An instant multi-lingual messaging app,which allows users to communicate in their native language with each other | Node.js, Google Translate API, Express, React, Passport, MongoDB |
-| [Sun Tiger](https://github.com/AaronRodrigues/search_engine) | A minimalistic search engine | Ruby, Nokogiri |
-
 
 ## :mortar_board: <a name="education">Education</a>
 
