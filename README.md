@@ -25,7 +25,7 @@ Interruption of Sensor Data could involve stopping an on-site operation in order
 
 ## Projects
 
-To see the full list of projects, please visit my [Github](https://github.com/panteha) page.
+To see the full list of projects, please visit my [Github](https://github.com/AaronRodrigues) page.
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
