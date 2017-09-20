@@ -29,7 +29,7 @@ To see the full list of projects, please visit my [Github](https://github.com/Aa
 
 | Project           | Description | Technologies |
 |---                |---          |---           |
-| [Babel Chat](https://github.com/panteha/BabelChat) | An instant multi-lingual messaging which allows users to communicate in their native language with each other | Node.js, Google Translate API, Express, React, Passport, MongoDB |
+| [Babel Chat](https://github.com/panteha/BabelChat) | An instant multi-lingual messaging app,which allows users to communicate in their native language with each other | Node.js, Google Translate API, Express, React, Passport, MongoDB |
 | [Sun Tiger](https://github.com/AaronRodrigues/search_engine) | A minimalistic search engine | Ruby, Nokogiri |
 
 
